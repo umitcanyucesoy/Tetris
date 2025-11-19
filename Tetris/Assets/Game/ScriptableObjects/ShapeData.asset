@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5c8195da42b4c4188b9763d7c02933a, type: 3}
+  m_Name: ShapeData
+  m_EditorClassIdentifier: 
+  shapes:
+  - {fileID: 1606119947651861906, guid: 638d199f959c98d438596a6c5d5af503, type: 3}
+  - {fileID: 4495811026851760657, guid: 7b9df48dfab0ae6409abb9acc8d59ed6, type: 3}
+  - {fileID: 5294882460335949727, guid: ff0ff6d277ee38a42a9767e4e79dd7f6, type: 3}
+  - {fileID: 7841478549078498282, guid: e2c9106c086800b4aa43efbf4ab6100d, type: 3}
+  - {fileID: 8751765838694318094, guid: 11db00392aa9ab64abe542739d1110ba, type: 3}
+  - {fileID: 8729096427791282421, guid: ba3be8cdb82232641903aa8490766037, type: 3}
+  - {fileID: 7953199349976541986, guid: 26dc27d30090e094a83a8354a85b628c, type: 3}
+  shapeMaterials:
+  - {fileID: 2100000, guid: 81ca761585aafc8448fd2dfcc5f3ef03, type: 2}
+  - {fileID: 2100000, guid: 92c86c2062114a845abbbb4f8811899c, type: 2}
+  - {fileID: 2100000, guid: 1cf87fb72211c0b4caa3338c16155247, type: 2}
+  - {fileID: 2100000, guid: 1737e0a5c920ba34ca8c07477b33a643, type: 2}
+  - {fileID: 2100000, guid: ac8b02e7bcc7fea4c8c7c9b5352f46a0, type: 2}
+  - {fileID: 2100000, guid: 4f53f0397306efe47a4ec5d61e3e07d2, type: 2}
+  - {fileID: 2100000, guid: 929c4d842e90f464a8252a377e772221, type: 2}
